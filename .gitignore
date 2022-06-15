@@ -1,1 +1,10 @@
+# from https://github.com/github/gitignore/blob/main/CUDA.gitignore
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# custom rules
 build/**
